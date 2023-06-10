@@ -1,0 +1,58 @@
+.main {
+  background-color: #fbfcfc;
+}
+.mainpagehead {
+  margin-top: 75px;
+}
+.login .mainpagehead {
+  height: 90vh !important;
+}
+.carousel-item {
+  min-height: 300px;
+  max-height: 800px;
+}
+
+.infinite-scroll {
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+}
+
+.scroll-img {
+  padding: 30px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  white-space: nowrap;
+  animation: scrollimg 12s linear infinite;
+}
+
+.scroll-img img {
+  margin: 0 0.8em;
+  width: 210px;
+  /* height: 100px; */
+  padding: 10px;
+  background-color: #e8f8f5;
+  border-radius: 12px;
+  transition: all 0.5s;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.scroll-img img:hover {
+  background-color: #8eecd9;
+  transform: scale(1.08);
+  box-shadow: none;
+  cursor: pointer;
+}
+
+@keyframes scrollimg {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-50%, 0);
+  }
+}
+/*  */
