@@ -36,7 +36,7 @@ export function Contactus() {
           <Register 
               icon={"fs-3 mt-3 fa-solid fa-building col-3 "}
               h6={"Company Name"}
-              p={`M-Kube Infocon Pvt Ltd`}
+              p={`M-Kube Infocon Private Limited`}
             />
             
             <Register
