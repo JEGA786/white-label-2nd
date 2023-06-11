@@ -96,7 +96,7 @@ export function Dashboardfooter() {
         </div>
       </div>
       <h6 className="text-center fw-light py-4 m-0">
-        © 2023 M-Kube Infocon Private Limited.
+        ©2023 M-Kube Infocon Private Limited.
       </h6>
     </div>
   );
