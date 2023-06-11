@@ -30,7 +30,7 @@ export function Login() {
                   </i>
                   <input
                     className="input-field"
-                    placeholder="name , email , number"
+                    placeholder="Name , Email , Number"
                     type="text"
                   />
                   <span className="bar"></span>
