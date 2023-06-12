@@ -1,4 +1,5 @@
 import "./Dashboardfooter.styles.css";
+import React from "react";
 
 export function Footeroption(props: any) {
   return (

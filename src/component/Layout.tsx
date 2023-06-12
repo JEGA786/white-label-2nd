@@ -1,4 +1,5 @@
 import "../component/Layout.css";
+import React from "react";
 
 export function Carousel(props: any) {
   return (

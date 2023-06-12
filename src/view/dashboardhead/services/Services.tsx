@@ -1,6 +1,7 @@
 import { Firstsildes, Testimonial, Text } from "../../../component/Layout";
 import { Dashboardfooter } from "../../dashboradfooter/Dashboardfooter";
 import { Dashboardhead } from "../headoption/Dashboardhead";
+import React from "react";
 
 export function Services() {
   return (

@@ -1,4 +1,5 @@
 import "./Dashboard.styles.css";
+import React from "react";
 import { Dashboardfooter } from "../dashboradfooter/Dashboardfooter";
 import { Carousel, Testimonial, Text } from "../../component/Layout";
 import { Dashboardhead } from "../dashboardhead/headoption/Dashboardhead";
