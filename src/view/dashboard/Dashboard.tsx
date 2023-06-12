@@ -100,7 +100,7 @@ export function Dashboard() {
           <img src={require("../../asset/sample1/partners/paytm.png")} alt="paytm img" />
           <img
             src={require("../../asset/sample1/partners/airtel.png")}
-            alt=""
+            alt="airtel img"
           />
           <img src={require("../../asset/sample1/partners/fino.png")} alt=" fino img" />
           <img
