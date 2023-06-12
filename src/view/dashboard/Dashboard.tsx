@@ -90,24 +90,24 @@ export function Dashboard() {
         <div className="scroll-img">
           <img
             src={require("../../asset/sample1/partners/airtel.png")}
-            alt=""
+            alt="airtel img"
           />
           <img src={require("../../asset/sample1/partners/fino.png")} alt="" />
           <img
             src={require("../../asset/sample1/partners/indicore.png")}
-            alt=""
+            alt="indicore img"
           />
-          <img src={require("../../asset/sample1/partners/paytm.png")} alt="" />
+          <img src={require("../../asset/sample1/partners/paytm.png")} alt="paytm img" />
           <img
             src={require("../../asset/sample1/partners/airtel.png")}
             alt=""
           />
-          <img src={require("../../asset/sample1/partners/fino.png")} alt="" />
+          <img src={require("../../asset/sample1/partners/fino.png")} alt=" fino img" />
           <img
             src={require("../../asset/sample1/partners/indicore.png")}
-            alt=""
+            alt="indicore img"
           />
-          <img src={require("../../asset/sample1/partners/paytm.png")} alt="" />
+          <img src={require("../../asset/sample1/partners/paytm.png")} alt="paytm img" />
         </div>
       </div>
 
